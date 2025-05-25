@@ -89,7 +89,7 @@ RsquareAdj (space.env.rda) # adjR2 = 0.249
 set.seed (341957232)
 env.parc.space <- rda (com.log, env[,'pH'], pcnm.axes[,fw.pcnm$order])
 anova (env.parc.space)  # P = 0.068 (marginally significant)
-RsquareAdj (pcnm.parc.space)  # adjR2 = 0.024
+RsquareAdj (env.parc.space)  # adjR2 = 0.024
 
 set.seed (34132487)
 space.parc.env <- rda (com.log, pcnm.axes[,fw.pcnm$order], env[,'pH'])  
@@ -111,7 +111,7 @@ plot (VP, Xnames = c('Prostředí\n/ Env',"Prostor\n/ Space"), digits = 2, cex =
 dev.off ()
 
 ## Species richness ----
-rich <- apply (species, MARGIN = 1, FUN = d, q = 0)
+rich <- apply (com, MARGIN = 1, FUN = d, q = 0)
 mean (rich)  # 29.8
 median (rich) # 30
 range (rich)  # 24-39
