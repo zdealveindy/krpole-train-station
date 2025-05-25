@@ -9,11 +9,11 @@ library (adespatial)
 library (vegetarian)
 
 ## Read data ----
-setwd ('c:/Users/Zeleny/Dropbox/experimenty/KrPole train station/vegetacni snimky')
+#setwd ('c:/Users/Zeleny/Dropbox/experimenty/KrPole train station/vegetacni snimky')
 
-com <- read.delim ('KrPole station releves.txt', row.names = 1)
-spe <- read.delim ('KrPole station species.txt')
-env <- read.delim ('KrPole station env.txt')
+com <- read.delim ('https://raw.githubusercontent.com/zdealveindy/krpole-train-station/refs/heads/main/KrPole%20station%20releves.txt', row.names = 1)
+spe <- read.delim ('https://raw.githubusercontent.com/zdealveindy/krpole-train-station/refs/heads/main/KrPole%20station%20species.txt')
+env <- read.delim ('https://raw.githubusercontent.com/zdealveindy/krpole-train-station/refs/heads/main/KrPole%20station%20env.txt')
 
 rownames (com) <- 1:21  # replace original "releve_nr" by order along the platform transect
 com.log <- log1p (com)
