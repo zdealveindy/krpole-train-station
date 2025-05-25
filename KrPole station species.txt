@@ -1,0 +1,92 @@
+species_name	layer	growth_form	life_form	CSR_plant_strategies	origin_status	red_list
+Acer negundo	7	strom	makrofanerofyt	C	neofyt	
+Achillea millefolium agg.	6	klonální bylina	hemikryptofyt	C	původní	
+Acinos arvensis	6	monokarpická vytrvalá neklonální bylina	terofyt	CSR	původní	
+Anthemis arvensis	6	jednoletá bylina	terofyt	CR	archeofyt	
+Arabidopsis thaliana	6	jednoletá bylina	terofyt	R	původní	
+Arenaria serpyllifolia	6	jednoletá bylina	terofyt	R	původní	
+Arrhenatherum elatius	6	klonální bylina	hemikryptofyt	C	archeofyt	
+Artemisia vulgaris	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt	C	původní	
+Bromus hordeaceus	6	jednoletá bylina	terofyt	CR	archeofyt	
+Bromus sterilis	6	jednoletá bylina	terofyt	CR	archeofyt	
+Bromus tectorum	6	jednoletá bylina	terofyt	R	archeofyt	
+Calamagrostis epigejos	6	klonální bylina	hemikryptofyt	C	původní	
+Capsella bursa-pastoris	6	jednoletá bylina	terofyt	R	archeofyt	
+Carduus acanthoides	6	monokarpická vytrvalá neklonální bylina	hemikryptofyt	CR	archeofyt	
+Carex muricata	6	klonální bylina	hemikryptofyt	C	původní	
+Centaurea stoebe	6	monokarpická vytrvalá neklonální bylina	hemikryptofyt	CSR	původní	
+Cerastium glutinosum	6	jednoletá bylina	terofyt	SR	původní	
+Cerastium semidecandrum	6	jednoletá bylina	terofyt	R	původní	
+Cerastium species	6					
+Chenopodium album agg.	6	jednoletá bylina	terofyt	CR	původní	
+Cichorium intybus	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt	C	archeofyt	
+Cirsium arvense	6	klonální bylina	hemikryptofyt	C	archeofyt	
+Convolvulus arvensis	6	klonální bylina	hemikryptofyt	CR	archeofyt	
+Dactylis glomerata	6	klonální bylina	hemikryptofyt	C	původní	
+Descurainia sophia	6	jednoletá bylina	terofyt	CR	archeofyt	
+Echium vulgare	6	monokarpická vytrvalá neklonální bylina	hemikryptofyt	CR	původní	
+Elymus repens	6	klonální bylina	geofyt	C	původní	
+Equisetum arvense	6	klonální bylina	geofyt	CR	původní	
+Erigeron annuus agg.	6	monokarpická vytrvalá neklonální bylina	terofyt		neofyt	
+Erigeron species	6					
+Erophila verna	6	jednoletá bylina	terofyt	SR	původní	
+Euphorbia cyparissias	6	klonální bylina	hemikryptofyt	CSR	původní	
+Festuca rubra	6	klonální bylina	hemikryptofyt	C	původní	
+Galium album	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt	C	původní	
+Galium aparine	6	jednoletá bylina	terofyt	CR	původní	
+Geranium pusillum	6	jednoletá bylina	terofyt	C	archeofyt	
+Geranium robertianum	6	jednoletá bylina	terofyt	CSR	původní	
+Herniaria glabra	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt	R	původní	
+Hieracium sabaudum	6	klonální bylina	hemikryptofyt	C	původní	
+Holosteum umbellatum	6	jednoletá bylina	terofyt	SR	původní	
+Hypericum perforatum	6	klonální bylina	hemikryptofyt	C	původní	
+Lactuca serriola	6	jednoletá bylina	hemikryptofyt	CR	archeofyt	
+Linaria vulgaris	6	klonální bylina	geofyt	CSR	archeofyt	
+Lithospermum officinale	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt	C	původní	C2b
+Lycopsis arvensis subsp. arvensis	6	jednoletá bylina	terofyt		archeofyt	
+Medicago falcata	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt	CS	původní	
+Medicago sativa	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt		neofyt	
+Medicago species	6					
+Medicago ×varia	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt	C	neofyt	
+Melica transsilvanica	6	klonální bylina	hemikryptofyt	CS	původní	C4a
+Microthlaspi perfoliatum	6	jednoletá bylina	terofyt	SR	původní	
+Myosotis arvensis	6	jednoletá bylina	terofyt	R	původní	
+Myosotis ramosissima	6	jednoletá bylina	terofyt	SR	původní	
+Origanum vulgare	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt	CSR	původní	
+Papaver argemone	6	jednoletá bylina	terofyt	R	archeofyt	C4a
+Papaver rhoeas	6	jednoletá bylina	terofyt	CR	archeofyt	
+Pastinaca sativa	6	monokarpická vytrvalá neklonální bylina	hemikryptofyt	C	původní	
+Phalaris arundinacea	6	klonální bylina	hemikryptofyt	C	původní	
+Picris hieracioides	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt	CSR	původní	
+Pilosella piloselloides	6	klonální bylina	hemikryptofyt	CSR	původní	
+Pilosella rothiana	6	klonální bylina	hemikryptofyt		původní	C3
+Plantago lanceolata	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt	CSR	původní	
+Poa angustifolia	6	klonální bylina	hemikryptofyt	CS	původní	
+Poa bulbosa	6	klonální bylina	hemikryptofyt	SR	původní	
+Poa compressa	6	klonální bylina	hemikryptofyt	CSR	původní	
+Poa pratensis	6	klonální bylina	hemikryptofyt	C	původní	
+Potentilla argentea	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt	CS	původní	
+Potentilla inclinata	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt	CS	původní	
+Reseda lutea	6	monokarpická vytrvalá neklonální bylina	hemikryptofyt	CSR	archeofyt	
+Rosa species	7	keř				
+Rubus fruticosus agg.	6	keř			původní	
+Rumex acetosella	6	klonální bylina	geofyt	CSR	původní	
+Sanguisorba minor	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt	CSR	původní	
+Saxifraga tridactylites	6	jednoletá bylina	terofyt	SR	původní	C3
+Securigera varia	6	klonální bylina	hemikryptofyt	C	původní	
+Sedum album	6	klonální bylina	chamaefyt	S	původní	
+Senecio vernalis	6	jednoletá bylina	terofyt	R	neofyt	
+Senecio vulgaris	6	jednoletá bylina	terofyt	R	archeofyt	
+Silene latifolia subsp. alba	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt	C	archeofyt	
+Taraxacum sect. Taraxacum	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt	CSR	původní	
+Thlaspi arvense	6	jednoletá bylina	terofyt	R	archeofyt	
+Tragopogon dubius	6	monokarpická vytrvalá neklonální bylina	terofyt	CSR	archeofyt	
+Tragopogon orientalis	6	monokarpická vytrvalá neklonální bylina	hemikryptofyt	CSR	původní	
+Tragopogon species	6	monokarpická vytrvalá neklonální bylina				
+Trifolium repens	6	klonální bylina	hemikryptofyt	CSR	původní	
+Tripleurospermum inodorum	6	jednoletá bylina	terofyt	CR	archeofyt	
+Triticum aestivum	6	jednoletá bylina	terofyt	CR	archeofyt	
+Urtica dioica	6	klonální bylina	hemikryptofyt	C	původní	
+Verbascum chaixii subsp. austriacum	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt		původní	C4a
+Veronica arvensis	6	jednoletá bylina	terofyt	R	archeofyt/neofyt	
+Viola arvensis	6	jednoletá bylina	terofyt	R	původní	
