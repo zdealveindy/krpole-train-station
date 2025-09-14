@@ -42,7 +42,7 @@ Holosteum umbellatum	6	jednoletá bylina	terofyt	SR	původní
 Hypericum perforatum	6	klonální bylina	hemikryptofyt	C	původní	
 Lactuca serriola	6	jednoletá bylina	hemikryptofyt	CR	archeofyt	
 Linaria vulgaris	6	klonální bylina	geofyt	CSR	archeofyt	
-Lithospermum officinale	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt	C	původní	C2b
+Lithospermum species	6	
 Lycopsis arvensis subsp. arvensis	6	jednoletá bylina	terofyt		archeofyt	
 Medicago falcata	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt	CS	původní	
 Medicago sativa	6	polykarpická vytrvalá neklonální bylina	hemikryptofyt		neofyt	
